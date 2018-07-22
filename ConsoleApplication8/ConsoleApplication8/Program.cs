@@ -10,7 +10,6 @@ namespace ConsoleApplication8
     {
         static void Main(string[] args)
         {
-            Console.Title = "kos madar sharifie!";
             Console.ReadKey();
         }
     }
