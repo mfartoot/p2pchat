@@ -10,10 +10,6 @@ namespace ConsoleApplication8
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-=======
-            Console.Title = "!";
->>>>>>> dd221e33a14458ba80e8f94720fcf16bc2f12086
             Console.ReadKey();
         }
     }
